@@ -1,0 +1,2 @@
+<center><b><h3>Event Manager App Introduction</h3></b><center><br/>
+A daily need application coded using C language using graphics in C and it's Data Structures, used to mark up the events you want to pin in your calender on particular date and can manage events of upto 100 years, user can check the events happening in current time and what had happened in the past of any day from today to 100 years in the past. 
